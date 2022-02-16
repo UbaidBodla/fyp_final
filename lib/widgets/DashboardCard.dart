@@ -87,7 +87,7 @@ class DashboardCard extends StatelessWidget {
                         fontSize: 20),
                   ),
                   trailing: Container(
-                    height: 60,
+                    height: 60,echo
                     width: 60,
                     decoration: BoxDecoration(
                       image: DecorationImage(
